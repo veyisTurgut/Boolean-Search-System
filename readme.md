@@ -8,4 +8,6 @@
   * It writes the output of the query to a file named <code> result_{timestamp}.json</code>.
   * You should close the program with input <code> q </code>to see the outputs.
 
+* Datased used in this project is [Reuters-21578](https://archive.ics.uci.edu/ml/datasets/reuters-21578+text+categorization+collection) dataset.
+
 **Adalet Veyis Turgut**
